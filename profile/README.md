@@ -1,16 +1,16 @@
-
 <div align="center">
 
-# StreamSense
+# Highlight Hive
+
 🎬 Building intelligent streaming solutions with AI
 
-[Contact Sales](mailto:sales@streamsense.ai) • [Documentation](https://docs.streamsense.ai) • [Status](https://status.streamsense.ai)
+[Contact Sales](mailto:sales@highlighthive.net) • [Documentation](https://docs.highlighthive.net) • [Status](https://status.highlighthive.net)
 
 </div>
 
 ## About Us
 
-StreamSense develops enterprise-grade streaming technology solutions powered by artificial intelligence. Our platform helps organizations efficiently manage and analyze streaming content at scale.
+Highlight Hive develops enterprise-grade streaming technology solutions powered by artificial intelligence. Our platform helps organizations efficiently manage and analyze streaming content at scale.
 
 ## Solutions
 
@@ -22,6 +22,7 @@ StreamSense develops enterprise-grade streaming technology solutions powered by 
 ## Technology
 
 Built with modern, secure technologies:
+
 - Enterprise-grade infrastructure
 - AI/ML capabilities
 - Real-time processing
@@ -37,13 +38,15 @@ Built with modern, secure technologies:
 ## Contact
 
 For business inquiries:
-- 📧 Enterprise Sales: sales@streamsense.ai
-- 🔒 Security: security@streamsense.ai
-- 💼 Partnerships: partners@streamsense.ai
+
+- 📧 Enterprise Sales: sales@highlighthive.net
+- 🔒 Security: security@highlighthive.net
+- 💼 Partnerships: partners@highlighthive.net
 
 ## Status
 
-Check our system status and uptime at [status.streamsense.ai](https://status.streamsense.ai)
+Check our system status and uptime at [status.highlighthive.net](https://status.highlighthive.net)
 
 ---
-© 2024 StreamSense. All rights reserved.
+
+© 2024 Highlight Hive. All rights reserved.
